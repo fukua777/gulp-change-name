@@ -1,0 +1,17 @@
+{
+  "name": "gulp-change-name",
+  "version": "1.0.0",
+  "description": "change files name",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "fukua777",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
